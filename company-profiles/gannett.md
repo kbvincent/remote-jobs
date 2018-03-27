@@ -22,7 +22,7 @@ US and Canada Based Company
 
 ## Company technologies
 
-#####Platform Engineering
+##### Platform Engineering
 
 - Kubernetes
 - Docker
