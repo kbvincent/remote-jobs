@@ -139,7 +139,7 @@ Four Kitchens | https://fourkitchens.com/ |
 [Fuel Made](/company-profiles/fuel-made.md) | http://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | http://fullfabric.com/ | Europe
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
-[Gannett](/company-profiles/gannett.md) | http://usatodaynetworkcareers.com/ | US & Canada
+[Gannett](/company-profiles/gannett.md) | https://www.gannett.com/ | US & Canada
 Geckoboard | https://www.geckoboard.com | UK
 General Assembly | https://generalassemb.ly/ |
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
